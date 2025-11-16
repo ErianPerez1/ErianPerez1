@@ -1,9 +1,7 @@
 ## Erian Perez
-![POiotes](https://github.com/user-attachments/assets/1f17b9f4-2399-47a6-ae7e-91ecbeb93ec2)
 
-Trying to get better at this.
-
-I’m looking for help with machine learning algorithms.
+Place to hold my guided projects using AutoCAD. 
+If you have any recpmmended courses to get better I would appreciate a comment. 
 <!--
 **ErianPerez1/ErianPerez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
